@@ -1,6 +1,6 @@
 # Titanic-Prediction
 ## File:
-  - Simplifed is the file use scikit-learn
+  - Simplifed is the file use scikit-learn <br>
   - Other use self-implemented method
   
   
